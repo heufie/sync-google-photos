@@ -1,7 +1,7 @@
 synologyConfiguration:
-  url: https://localhost # URL to Synology Photos
-  username: qwe #username
-  password: asd #password
+  url: https://localhost # http://10.3.2.133:5000/?launchApp=SYNO.Foto.AppInstance#/personal_space/folder/3
+  username: qwe #rheuver
+  password: asd #n2@KY4UTtcd*K8Dg
   insecureHttpsConnection: true # allow untrusted certificates for connection to synology photos
   uploadedTagID: 2 # Tag to identify already synced elements in Synology Photos
 
